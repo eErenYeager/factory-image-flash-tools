@@ -5,7 +5,7 @@ DO NOT FLASH THE KITKAT (32-bit) IMAGES IF YOU HAVE UPGRADED TO LOLLIPOP (64-bit
 
 ## How to
 ### Steps to flash factory image
- 1. Download the LOLLIPOP factory image fastboot package for YU YUREKA from [Here](https://cyngn.com/support/)
+ 1. Download the LOLLIPOP factory image fastboot package for YU YUREKA from [Here](https://androidfilehost.com/?fid=24533103863137354)
 
  2. Extract the contents of the fastboot package into a folder.
 
